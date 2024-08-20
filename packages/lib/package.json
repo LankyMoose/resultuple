@@ -10,7 +10,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "build": "tsc"
+    "build": "tsc",
+    "dev": "tsc --w"
   },
   "keywords": [],
   "author": "MY-GITHUB",
