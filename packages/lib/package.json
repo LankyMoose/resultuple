@@ -1,12 +1,12 @@
 {
   "name": "resultuple",
-  "version": "1.0.0",
-  "description": "An awesome new package",
+  "version": "1.0.1",
+  "description": "Simplify and make functions safe!",
   "main": "dist/index.js",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Robby6Strings/[repo-name]"
+    "url": "https://github.com/LankyMoose/resultuple"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\"",
@@ -14,6 +14,6 @@
     "dev": "tsc --w"
   },
   "keywords": [],
-  "author": "MY-GITHUB",
+  "author": "LankyMoose",
   "license": "ISC"
 }
