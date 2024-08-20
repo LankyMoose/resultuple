@@ -1,14 +1,8 @@
-# PACKAGE-NAME
+# Resultuple
 
-Development monorepo template for **PACKAGE-NAME**.
+Development monorepo template for **Resultuple**.
 
-Get started by running
-
-```bash
-node setup -p packagename -g mygithubusername -e me@hotmail.com
-# OR
-node setup --package packagename --github mygithubusername --email me@hotmail.com
-```
+Resultaple is a package designed to push and encourage the usage of the "safe assignment operator" proposal currently under development - https://github.com/arthurfiorette/proposal-safe-assignment-operator
 
 ## Structure
 
@@ -16,7 +10,7 @@ node setup --package packagename --github mygithubusername --email me@hotmail.co
   - Contains workflows used by GitHub Actions.
 - `packages`
   - Contains the individual packages managed in the monorepo.
-  - [PACKAGE-NAME](https://github.com/GITHUB-NAME/PACKAGE-NAME/blob/main/packages/lib)
+  - [PACKAGE-NAME](https://github.com/LankyMoose/Resultuple/blob/main/packages/lib)
 - `sandbox`
   - Contains example applications and random tidbits.
 
