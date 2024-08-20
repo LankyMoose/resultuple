@@ -1,5 +1,5 @@
 {
-  "name": "MY-PACKAGE",
+  "name": "resultuple",
   "version": "1.0.0",
   "description": "An awesome new package",
   "main": "dist/index.js",
