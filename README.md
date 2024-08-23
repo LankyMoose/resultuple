@@ -10,7 +10,7 @@ Resultaple is a package designed to push and encourage the usage of the "safe as
   - Contains workflows used by GitHub Actions.
 - `packages`
   - Contains the individual packages managed in the monorepo.
-  - [PACKAGE-NAME](https://github.com/LankyMoose/Resultuple/blob/main/packages/lib)
+  - [resultuple](https://github.com/LankyMoose/Resultuple/blob/main/packages/lib)
 - `sandbox`
   - Contains example applications and random tidbits.
 
