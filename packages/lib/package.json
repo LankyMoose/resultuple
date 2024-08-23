@@ -1,6 +1,6 @@
 {
   "name": "resultuple",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simplify and make functions safe!",
   "main": "dist/index.js",
   "type": "module",
