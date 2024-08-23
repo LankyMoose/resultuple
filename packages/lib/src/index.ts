@@ -1,6 +1,8 @@
 import { SymbolResult } from "./polyfill.js"
 import type { ResultTuple } from "./polyfill"
 
+export { SymbolResult }
+
 export function resultuple<const Fn extends (...args: any) => any>(fn: Fn) {
   return function (
     ...args: Parameters<Fn>

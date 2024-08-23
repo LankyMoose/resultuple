@@ -11,7 +11,10 @@ declare global {
   }
 
   export interface Function {
-    [SymbolResult]<T>(...args: any): ResultTuple<T>
+    [SymbolResult]<T, U extends (...args: any) => T>(
+      this: U,
+      ...args: Parameters<U>
+    ): ResultTuple<T>
   }
 
   export interface Promise<T> {
